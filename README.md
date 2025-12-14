@@ -78,6 +78,8 @@ kickstarter-crowdfunding-analysis/
 
 ![Kickstarter Project Dashboard](images/kickstarter_dashboard.png)
 
+!cd "C:\Users\Admin\Desktop\Kickstarter Project Dashboard"
+
 
 
 
