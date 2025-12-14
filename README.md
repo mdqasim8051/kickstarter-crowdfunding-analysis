@@ -73,6 +73,11 @@ kickstarter-crowdfunding-analysis/
 - Use Tableau Desktop to open dashboards
 - Execute SQL scripts in MySQL
 
+  ## 📸 Kickstarter Dashboard
+
+[Kickstarter Project Dashboard](./images/kickstarter_dashboard.png)
+
+
 ---
 
 ## 👤 Author
