@@ -77,6 +77,7 @@ kickstarter-crowdfunding-analysis/
 ## 📸 Kickstarter Dashboard
 
 ![Kickstarter Project Dashboard](images/kickstarter_dashboard.png.jpg)
+![Kickstarter Project Dashboard](images/kickstarter_dashboard.png.jpg)
 
 
 
