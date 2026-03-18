@@ -88,12 +88,12 @@ The dataset includes:
 
 ## 🗂 Project Structure
 kickstarter-crowdfunding-analysis/
-│── README.md
-│── Excel_Files/
-│── PowerBI_Files/
-│── Tableau_Files/
-│── MySQL_Queries/
-│── kickstarter_dashboard.png.jpg
+│── README.md  
+│── Excel_Files/  
+│── PowerBI_Files/  
+│── Tableau_Files/  
+│── MySQL_Queries/  
+│── kickstarter_dashboard.png.jpg  
 
 ---
 
