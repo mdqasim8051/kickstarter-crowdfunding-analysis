@@ -84,8 +84,8 @@ The dataset includes:
 - Target **high-engagement regions (e.g., US)** for better funding outcomes  
 - Optimize campaign duration to maintain urgency and engagement
 
-  ---
 
+## 🗂 Project Structure
 kickstarter-crowdfunding-analysis/
 │── README.md  
 │── Excel_Files/  
@@ -93,7 +93,6 @@ kickstarter-crowdfunding-analysis/
 │── Tableau_Files/  
 │── MySQL_Queries/  
 │── kickstarter_dashboard.png.jpg  
-
 ---
 
 ## ▶ How to Use
@@ -109,8 +108,4 @@ kickstarter-crowdfunding-analysis/
 Data Analyst  
 
 🔗 GitHub: https://github.com/mdqasim8051  
-🔗 LinkedIn: https://www.linkedin.com/in/mdqasimshah  
-
----
-
-## 🗂 Project Structure
+🔗 LinkedIn: https://www.linkedin.com/in/mdqasimshah
