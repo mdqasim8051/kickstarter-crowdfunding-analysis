@@ -86,6 +86,7 @@ The dataset includes:
 
 
 ## 🗂 Project Structure
+```
 kickstarter-crowdfunding-analysis/
 │── README.md  
 │── Excel_Files/  
@@ -93,8 +94,7 @@ kickstarter-crowdfunding-analysis/
 │── Tableau_Files/  
 │── MySQL_Queries/  
 │── kickstarter_dashboard.png.jpg  
----
-
+```
 ## ▶ How to Use
 - Open Excel files for data analysis  
 - Use Power BI Desktop to explore dashboards  
