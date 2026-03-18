@@ -1,88 +1,117 @@
-# Kickstarter Crowdfunding Analysis
+# 📊 Kickstarter Crowdfunding Analysis
 
 ## 📌 Project Overview
-This project analyzes Kickstarter crowdfunding data to understand project success rates, category performance, funding trends, and project outcomes using multiple analytics tools.
+This project analyzes Kickstarter crowdfunding data to identify key factors influencing project success, funding trends, and category performance. The analysis helps uncover actionable insights for improving campaign outcomes.
+
+---
+
+## 🎯 Business Objective
+- Identify factors driving successful crowdfunding campaigns  
+- Analyze category and regional performance  
+- Understand funding and backer behavior  
+- Provide recommendations to improve campaign success  
 
 ---
 
 ## 🛠 Tools & Technologies
-- Excel
-- Power BI
-- Tableau
-- MySQL
+- Excel  
+- Power BI  
+- Tableau  
+- MySQL  
 
 ---
 
 ## 📂 Dataset Information
-The dataset contains crowdfunding project details including project category, goal amount, pledged amount, number of backers, location, launch date, and project outcome.
+The dataset includes:
+- Project category  
+- Goal amount  
+- Pledged amount  
+- Number of backers  
+- Country and location  
+- Launch and deadline dates  
+- Project outcome (Successful / Failed)  
 
 ---
 
 ## 🧹 Data Cleaning & Preparation
-- Converted epoch timestamps into readable date format
-- Created calendar table (Year, Quarter, Month, Weekday)
-- Cleaned missing and inconsistent values
-- Converted goal amounts into USD
+- Converted epoch timestamps into readable date format  
+- Created calendar table (Year, Quarter, Month, Weekday)  
+- Handled missing and inconsistent values  
+- Converted goal amounts into USD  
 
 ---
 
 ## 🧩 Data Modeling
-- Built a star schema data model
-- Created fact and dimension tables
-- Established relationships between tables
+- Designed a star schema data model  
+- Created fact and dimension tables  
+- Built relationships for efficient querying and analysis  
 
 ---
 
 ## 📊 Key KPIs
-- Total projects
-- Successful projects
-- Success rate
-- Total amount raised
-- Average number of backers
-- Average project duration
+- Total Projects  
+- Successful Projects  
+- Success Rate (%)  
+- Total Funding Raised  
+- Average Backers  
+- Average Campaign Duration  
 
 ---
 
 ## 📈 Dashboards
-- Excel dashboard for summary KPIs
-- Power BI dashboard with interactive analysis
-- Tableau dashboard for category and location insights
+- Excel dashboard for KPI summary  
+- Power BI dashboard for interactive insights  
+- Tableau dashboard for category and regional analysis  
+
+---
+
+## 📸 Dashboard Preview
+![Kickstarter Dashboard](https://github.com/mdqasim8051/kickstarter-crowdfunding-analysis/blob/cee70ffe2cca961b24dfd5a1f6cb86e7cb1b9016/kickstarter_dashboard.png.jpg)
 
 ---
 
 ## 🔍 Key Insights
-- Moderate goal projects have higher success rates
-- Technology and Games categories perform best
-- US-based projects receive the highest funding
+- Projects with **moderate funding goals** have a higher success rate compared to very high or very low goals  
+- **Technology and Games categories** consistently outperform others in terms of success and funding  
+- **US-based campaigns** attract the highest number of backers and funding  
+- Campaigns with **shorter durations** tend to perform better due to urgency and engagement  
 
 ---
+
+## 💡 Business Recommendations
+- Set **realistic funding goals** to increase success probability  
+- Focus on **high-performing categories** like Technology and Games  
+- Target **high-engagement regions (e.g., US)** for better funding outcomes  
+- Optimize campaign duration to maintain urgency and engagement
+
+  ---
 
 ## 🗂 Project Structure
 kickstarter-crowdfunding-analysis/
 │── README.md
-│── Excel Files/
-│── Power BI Files/
-│── Tableau Files/
-│── MySQL Queries/
+│── Excel_Files/
+│── PowerBI_Files/
+│── Tableau_Files/
+│── MySQL_Queries/
+│── kickstarter_dashboard.png.jpg
 
 ---
 
 ## ▶ How to Use
-- Open Excel files for data analysis
-- Use Power BI Desktop to open PBIX files
-- Use Tableau Desktop to open dashboards
-- Execute SQL scripts in MySQL
-
-
-## 📸 Kickstarter Dashboard
-![Kickstarter Project Dashboard](https://github.com/mdqasim8051/kickstarter-crowdfunding-analysis/blob/cee70ffe2cca961b24dfd5a1f6cb86e7cb1b9016/kickstarter_dashboard.png.jpg)
-
-
-
+- Open Excel files for data analysis  
+- Use Power BI Desktop to explore dashboards  
+- Use Tableau Desktop for visualization  
+- Execute SQL queries in MySQL  
 
 ---
 
 ## 👤 Author
-**Md Qasim**  
+**Md Qasim Shah**  
 Data Analyst  
-GitHub: https://github.com/mdqasim8051
+
+🔗 GitHub: https://github.com/mdqasim8051  
+🔗 LinkedIn: https://www.linkedin.com/in/mdqasimshah  
+
+---
+
+## 🗂 Project Structure
