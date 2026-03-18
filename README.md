@@ -86,7 +86,6 @@ The dataset includes:
 
   ---
 
-## 🗂 Project Structure
 kickstarter-crowdfunding-analysis/
 │── README.md  
 │── Excel_Files/  
